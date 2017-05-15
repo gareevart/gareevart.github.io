@@ -1,0 +1,64 @@
+p.red{
+color:#B22222;
+}
+
+.dark {
+color:#828282;
+}
+#clgreen {
+  color:#90EE90;
+}
+.fontclass {
+  font-family:Arial;
+  font-size: 16px;
+  font-weight: normal;
+  font-style:normal;
+}
+
+.texat {
+  text-align: justify;
+  line-height: 1.5;
+  text-decoration: none;
+  color: #FF4500;
+  font-family: Times;
+}
+
+.bgstyle {
+  background-color: #FFFFE0;
+  background-repeat: no-repeat;
+  background-position:0px 0px;
+}
+
+body {
+  background: #FFFFE0;
+}
+
+.wstyle {
+max-width: 1300px;
+min-width: 500px;
+
+}
+
+.spstyle {
+  font-size: 18px;
+  color: #FF4500;
+}
+
+.block {
+  border: 1px solid #000000;
+  padding: 20px 40px 20px 40px;
+  margin: 50px 0px 50px 0px;
+}
+.imgleft {
+float: left;
+margin: 0 20px 0 20px;
+}
+.clr {
+  clear: both;
+}
+
+.dstyle {
+  display: block;
+}
+
+/ Сокращенные значение и правильный порядок font: italic bold 17px Arial;
